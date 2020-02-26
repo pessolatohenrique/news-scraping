@@ -13,5 +13,9 @@ Projeto que permite a pesquisa de notícias, de diferentes gêneros, em fontes c
 - Realizar o clone do projeto
 
         git clone https://github.com/USER/news-scraping.git
+        
+- Instalar as dependências
+
+        pip install -r requirements.txt
     
  - Executar em uma console compatível com o Python 3
